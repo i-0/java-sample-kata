@@ -26,6 +26,6 @@ For kata checkout https://codingdojo.org/kata/, but there are way more on the in
 ## Ensemble Basic Commands
 
 `git switch -c <new branch name here>` switch to another branch
-`mob s` start a session
+`mob s -c` start a session
 `mob n` hand over to the next person or use as a save point
 `mob d` commit changes to your branch
